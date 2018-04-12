@@ -1,2 +1,2 @@
 # Kaggle
-Codes for my Kaggle works
+Codes for Kaggle works
